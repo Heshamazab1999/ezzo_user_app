@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "378028389125",
+    "project_id": "ezzoapp-650ab",
+    "storage_bucket": "ezzoapp-650ab.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:378028389125:android:2ca9849c9c44e22b28bd6c",
+        "android_client_info": {
+          "package_name": "com.ezzo_user_app"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "378028389125-2q7i1sj1j43j18v38hnlrisku0hv98es.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB8jqKYNC0SXEIWqmXHkQlALPuODRcGUt4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "378028389125-2q7i1sj1j43j18v38hnlrisku0hv98es.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
